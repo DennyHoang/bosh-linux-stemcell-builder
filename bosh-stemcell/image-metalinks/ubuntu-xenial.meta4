@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="bosh-ubuntu-xenial-os-image.tgz">
-    <hash type="md5">07a59ead946de7eb2a1ad668176ed7b2</hash>
-    <hash type="sha-1">7b7a8e56d785061a2e3325d151241ed87ea54157</hash>
-    <hash type="sha-256">61f0a5cd880ce7194b262f6e57c62e9f212842298580de962a1e1e115e53e24e</hash>
-    <hash type="sha-512">6946b808f590304f68132b8c29d6947d548bccdc239b6ff9c08fc9b872be99e5d6b5d560192eaa5b950aa6f5c8b07d149cd54ca8e60b16027685fb7fdbfd78e9</hash>
-    <size>504316242</size>
-    <url>https://s3.amazonaws.com/bosh-os-images/bosh-ubuntu-xenial-os-image.tgz?versionId=rcwYgCrzMaCsPwu.le0z4qXi0ZGvxcNd</url>
+    <hash type="md5">76e7b050da1f741424542ce79eb8c2b1</hash>
+    <hash type="sha-1">db4cc7b2e8dc06cca398f0c6338c5d40b4d88356</hash>
+    <hash type="sha-256">c9b9362c1228c5bd83da6371a4ff38650da3a692212c7289ac67c8008d7983a8</hash>
+    <hash type="sha-512">a91186bc2f60a25e89b7feff77020704bb02b25412c3bb1420baa1ada62afba2df0955fdf60eed4b257793a4724efad1dbcb0f85c86e192253b19318aac8149c</hash>
+    <size>505214230</size>
+    <url>https://s3.amazonaws.com/pci-stemcell-version-bucket/bosh-ubuntu-xenial-os-image.tgz?versionId=9XA8BEDEqOQXZ8CAcwzdy8JadzA1ymDs</url>
   </file>
   <file name="usn-log.json">
-    <hash type="md5">2ab186f373a9bebb99e3cad4082511bb</hash>
-    <hash type="sha-1">00d31e750f1a5a63cf1d21abb078d5f23e56d0c9</hash>
-    <hash type="sha-256">c841e9d4a099c48f125b0ee3b8d6601929e9dfe7972f41bb2f6ec4600f3c8deb</hash>
-    <hash type="sha-512">d33dbf388bb97ee1a49b575851d9888711946acc89a00cdcc70bd3f7dfec933f7ca41e86a39a1d0625c6149011ba64742796b46b64aa51fa0153616f022d7579</hash>
-    <size>12558</size>
-    <url>https://s3.amazonaws.com/bosh-stemcell-triggers/master/usn-log.json?versionId=BYLud3_yaLhB3A70x_kxqoZPZE0HxsFJ</url>
+    <hash type="md5">d41d8cd98f00b204e9800998ecf8427e</hash>
+    <hash type="sha-1">da39a3ee5e6b4b0d3255bfef95601890afd80709</hash>
+    <hash type="sha-256">e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</hash>
+    <hash type="sha-512">cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</hash>
+    <url></url>
   </file>
   <generator>metalink.dpb587.github.io/0.0.0</generator>
 </metalink>
